@@ -1,7 +1,3 @@
-Here's a complete `README.md` file you can use for your GitHub repository:
-
----
-
 # Houdini Network Cleaner Tool
 
 A powerful utility for cleaning up your Houdini scene networks. This tool identifies and safely removes **unused** and **bypassed** nodes to help maintain clean, efficient node networks — all with a visual preview and an intuitive PyQt-based GUI.
